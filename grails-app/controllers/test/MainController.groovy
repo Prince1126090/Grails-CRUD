@@ -11,4 +11,5 @@ class MainController {
     }
     def loop(){
     }
+    def otherLayout() {}
 }
