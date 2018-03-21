@@ -1,8 +1,6 @@
 <!DOCTYPE html>
 <html>
 	<head>
-		<meta name="layout" content="main"/>
-		<title>Form</title>
 	</head>
 	<body>
         <g:form controller="test" action="save">
