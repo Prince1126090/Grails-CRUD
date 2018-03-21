@@ -9,4 +9,6 @@ class MainController {
         list << new Person(firstName: 'Sam', lastName:'Robinson', age:47)
         [ list:list ]
     }
+    def loop(){
+    }
 }
